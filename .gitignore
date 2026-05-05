@@ -1,3 +1,48 @@
+<<<<<<< HEAD
+# Learn more https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
+
+# dependencies
+node_modules/
+
+# Expo
+.expo/
+dist/
+web-build/
+expo-env.d.ts
+
+# Native
+.kotlin/
+*.orig.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+
+# Metro
+.metro-health-check*
+
+# debug
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+
+# macOS
+.DS_Store
+*.pem
+
+# local env files
+.env*.local
+
+# typescript
+*.tsbuildinfo
+
+app-example
+
+# generated native folders
+/ios
+/android
+=======
 # Edit at https://www.toptal.com/developers/gitignore?templates=git,vue,node,flask,linux,macos,react,vuejs,django,python,angular,eclipse,gitbook,pycharm,windows,pycharm+all,pycharm+iml,reactnative,tortoisegit,visualstudio,visualstudiocode,r
 
 ### Angular ###
@@ -1603,3 +1648,4 @@ FodyWeavers.xsd
 # Additional files built by Visual Studio
 
 # End of https://www.toptal.com/developers/gitignore/api/git,vue,node,flask,linux,macos,react,vuejs,django,python,angular,eclipse,gitbook,pycharm,windows,pycharm+all,pycharm+iml,reactnative,tortoisegit,visualstudio,visualstudiocode,r
+>>>>>>> 4dd6caf7274dc6db522884be849e9561f9262af6
