@@ -1,0 +1,1 @@
+export async function GET() { return Response.json({ message: 'E-Rank admin endpoint active' }); }

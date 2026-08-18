@@ -1,0 +1,11 @@
+const AUTH = {
+
+  MIN_PASSWORD_LENGTH: 6,
+
+  LOGIN_TIMEOUT: 30000,
+
+  SESSION_TIMEOUT: 3600000,
+
+};
+
+export default AUTH;

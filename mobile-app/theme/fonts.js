@@ -1,0 +1,8 @@
+const fonts = {
+  regular: 'System',
+  medium: 'System',
+  semiBold: 'System',
+  bold: 'System',
+};
+
+export default fonts;
